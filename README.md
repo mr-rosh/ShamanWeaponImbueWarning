@@ -1,5 +1,7 @@
 # Shaman Weapon Imbue Warning
 
+<img width="800" height="450" alt="WoWScrnShot_102526_145214_0" src="https://github.com/user-attachments/assets/e5e4de0f-880f-4b86-b37b-f7e7dfd39c32" />
+
 A standalone addon for OctoWoW with ClassicAPI. It displays a warning near the top center of the screen when all of these are true:
 
 - The character is a Shaman.
